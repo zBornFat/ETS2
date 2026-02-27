@@ -12,8 +12,6 @@
 ![GitHub License](https://img.shields.io/github/license/zbornfat/ets2)
 [![Static Badge](https://img.shields.io/badge/Groupe-BornFat_Enjoyer-red?logo=steam)](https://steamcommunity.com/groups/BornFat-Enjoyer)
 
-
-
 </div>
 
 ## Changement
@@ -28,6 +26,8 @@
 - cans
   - 250ml
   - 330ml
+- MSS (Microsoft Surface Pro)
+- notebook
 
 ## Installation
 
@@ -57,6 +57,10 @@ pour tester déposer le dossier comme si vous installez le mod mais avec votre d
 |can 220ml|can 330ml|
 |-|-|
 |![](assets/can220.jpg)|![](assets/can330.jpg)|
+
+|MSS|NoteBook|
+|-|-|
+|![](assets/mss.jpg)|![](assets/notebook.jpg)|
 
 ## Version
 
