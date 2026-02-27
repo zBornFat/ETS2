@@ -1,0 +1,3 @@
+﻿Version modifié de SiSL's Mega Pack
+SiSL's version : 2.5
+zBornFat Customization : https://github.com/zBornFat/ETS2

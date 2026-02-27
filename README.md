@@ -1,13 +1,10 @@
 
 <div align="center">
 
-### zBornFat Customization
-
 <img src="assets/icon.jpg" alt="logo"/>
 
-**SiSL's Mod Pack modifié pour BornFat**
+### zBornFat Customization
 
-[![Static Badge](https://img.shields.io/badge/Dépendance-SiSL's_Mega_Pack-orange)](https://radiotrucker.com/sislsmegapack/download/)
 [![GitHub Release](https://img.shields.io/github/v/release/zBornFat/ETS2)](https://github.com/zbornfat/ets2/releases/latest)
 ![GitHub License](https://img.shields.io/github/license/zBornFat/ETS2)
 [![Static Badge](https://img.shields.io/badge/Groupe-BornFat_Enjoyer-red?logo=steam)](https://steamcommunity.com/groups/BornFat-Enjoyer)
@@ -32,11 +29,11 @@
 ## Installation
 
 > [!NOTE]
-> Vous devez d'abord posséder la version de [SiSL's Mega Pack](https://radiotrucker.com/sislsmegapack/download/) pour que la version zBornFat fonctionne
+> Vous devez d'abord posséder les dépendances
 
 1. installer la dernière version du zip [en cliquant ici](https://github.com/zbornfat/ets2/releases/latest)
 2. déposer le dossier dans `documents/euro truck simulator 2/mod`
-3. dans le jeu, activer le mod __**au dessus**__ de SiSL's Mod Pack
+3. dans le jeu, activer le mod __**au dessus**__ de toutes les dépendances
 
 ## Modification
 1. installer la dernière version sur le repo
@@ -68,5 +65,14 @@ Liste des versions testé
 
 |ETS2|SiSL'S|zBornFat version|Compatibilité|
 |-|-|-|-|
-|1.58.x|2.5|1.1|✅|
-|1.58.x|2.5|1.2.6|✅|
+|1.58.x|2.5.x|1.1|✅|
+|1.58.x|2.5.x|1.2.6|✅|
+|1.58.x|2.5.x|1.2.7|✅|
+
+## Dépendances
+
+<div align="center">
+
+[![Static Badge](https://img.shields.io/badge/Dépendance-SiSL's_Mega_Pack-orange)](https://radiotrucker.com/sislsmegapack/download/)
+
+</div>
