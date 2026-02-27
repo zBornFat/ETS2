@@ -39,3 +39,8 @@ pour tester déposer le dossier comme si vous installez le mod mais avec votre d
 |flagside|Largebook & Books|
 |-|-|
 |![](assets/flagside.jpg)|![](assets/books.jpg)|
+
+
+|can 220ml|can 330ml|
+|-|-|
+|![](assets/can220.jpg)|![](assets/can330.jpg)|
