@@ -8,8 +8,8 @@
 **SiSL's Mod Pack modifié pour BornFat**
 
 [![Static Badge](https://img.shields.io/badge/Dépendance-SiSL's_Mega_Pack-orange)](https://radiotrucker.com/sislsmegapack/download/)
-[![GitHub Release](https://img.shields.io/github/v/release/zbornfat/ets2)](https://github.com/zbornfat/ets2/releases/latest)
-![GitHub License](https://img.shields.io/github/license/zbornfat/ets2)
+[![GitHub Release](https://img.shields.io/github/v/release/zBornFat/ETS2)](https://github.com/zbornfat/ets2/releases/latest)
+![GitHub License](https://img.shields.io/github/license/zBornFat/ETS2)
 [![Static Badge](https://img.shields.io/badge/Groupe-BornFat_Enjoyer-red?logo=steam)](https://steamcommunity.com/groups/BornFat-Enjoyer)
 
 </div>
