@@ -8,6 +8,9 @@
 ![GitHub License](https://img.shields.io/github/license/zBornFat/ETS2)
 [![Static Badge](https://img.shields.io/badge/Groupe-BornFat_Enjoyer-red?logo=steam)](https://steamcommunity.com/groups/BornFat-Enjoyer)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zBornFat/ETS2/total)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/zBornFat/ETS2)
+![GitHub repo size](https://img.shields.io/github/repo-size/zBornFat/ETS2)
+
 
 </div>
 
