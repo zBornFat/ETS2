@@ -16,6 +16,9 @@
   - book1
   - book2
   - book3
+- cans
+  - 250ml
+  - 330ml
 
 ## Installation
 1. installer la dernière version sur le repo
