@@ -12,7 +12,7 @@
 </div>
 
 ## Changement
-- flagside
+- sideflag
   - normal
   - flip
 - largebook
@@ -46,7 +46,7 @@ pour tester déposer le dossier comme si vous installez le mod mais avec votre d
 
 ## Images
 
-|flagside|Largebook & Books|
+|sideflag|Largebook & Books|
 |-|-|
 |![](assets/flagside.jpg)|![](assets/books.jpg)|
 
@@ -68,6 +68,7 @@ Liste des versions testé
 |1.58.x|2.5.x|1.1|✅|
 |1.58.x|2.5.x|1.2.6|✅|
 |1.58.x|2.5.x|1.2.7|✅|
+|1.58.x|2.5.x|1.3.3|✅|
 
 ## Dépendances
 
