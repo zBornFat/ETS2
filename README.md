@@ -1,6 +1,8 @@
 
 <div align="center">
 
+### SiSL'S zBornFat Version
+
 <img src="assets/icon.jpg" alt="logo"/>
 
 **SiSL's Mod Pack modifié pour BornFat**
@@ -44,3 +46,11 @@ pour tester déposer le dossier comme si vous installez le mod mais avec votre d
 |can 220ml|can 330ml|
 |-|-|
 |![](assets/can220.jpg)|![](assets/can330.jpg)|
+
+## Version
+
+Liste des versions testé 
+
+|ETS2|SiSL'S|zBornFat version|Compatibilité|
+|-|-|-|-|
+|1.58.x|2.5|1.1|✅|
