@@ -15,6 +15,8 @@
 </div>
 
 ## Changement
+
+### Intérieur
 - sideflag
   - normal
   - flip
@@ -29,6 +31,10 @@
 - MSS (Microsoft Surface Pro)
 - notebook
 - passport
+
+### Remorque
+- eurogoodies (BC)
+- posped (ZBF)
 
 ## Installation
 
@@ -63,9 +69,9 @@ pour tester déposer le dossier comme si vous installez le mod mais avec votre d
 |-|-|
 |![](assets/mss.jpg)|![](assets/notebook.jpg)|
 
-|Passport|
-|-|
-|![](assets/passport.jpg)|
+|Passport|Remorque|
+|-|-|
+|![](assets/passport.jpg)|![](assets/remorque.jpg)|
 
 ## Version
 
@@ -77,7 +83,7 @@ Liste des versions testé
 |1.58.x|2.5.x|1.2.6|✅|
 |1.58.x|2.5.x|1.2.7|✅|
 |1.58.x|2.5.x|1.3.3|✅|
-|1.58.x|2.5.x|1.4.1|✅|
+|1.58.x|2.5.x|1.5.1|✅|
 
 ## Dépendances
 
