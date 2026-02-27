@@ -33,6 +33,6 @@ pour tester déposer le dossier comme si vous installez le mod mais avec votre d
 
 ## Images
 
-|flagside|largebook|
+|flagside|Largebook & Books|
 |-|-|
-|![](assets/flagside.jpg)|![](assets/flagside.jpg)|
+|![](assets/flagside.jpg)|![](assets/books.jpg)|
