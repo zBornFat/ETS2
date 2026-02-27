@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="assets/icon.jpg" alt="logo"/>
@@ -8,6 +7,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/zBornFat/ETS2)](https://github.com/zbornfat/ets2/releases/latest)
 ![GitHub License](https://img.shields.io/github/license/zBornFat/ETS2)
 [![Static Badge](https://img.shields.io/badge/Groupe-BornFat_Enjoyer-red?logo=steam)](https://steamcommunity.com/groups/BornFat-Enjoyer)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zBornFat/ETS2/total)
 
 </div>
 
