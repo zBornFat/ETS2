@@ -1,7 +1,7 @@
 
 <div align="center">
 
-### SiSL'S zBornFat Version
+### zBornFat Customization
 
 <img src="assets/icon.jpg" alt="logo"/>
 
@@ -69,3 +69,4 @@ Liste des versions testé
 |ETS2|SiSL'S|zBornFat version|Compatibilité|
 |-|-|-|-|
 |1.58.x|2.5|1.1|✅|
+|1.58.x|2.5|1.2.6|✅|
