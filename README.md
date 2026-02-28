@@ -41,7 +41,7 @@
 > [!NOTE]
 > Vous devez d'abord posséder les dépendances
 
-1. installer la dernière version du zip [en cliquant ici](https://github.com/zbornfat/ets2/releases/latest)
+1. installer la dernière version du zip [en cliquant ici](https://github.com/zbornfat/ets2/releases/latest) et récupérer le dossier `zBornFat.-.Customization`
 2. déposer le dossier dans `documents/euro truck simulator 2/mod`
 3. dans le jeu, activer le mod __**au dessus**__ de toutes les dépendances
 
