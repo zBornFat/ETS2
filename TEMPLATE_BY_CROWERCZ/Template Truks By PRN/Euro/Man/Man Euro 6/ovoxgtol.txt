@@ -1,0 +1,4 @@
+TEMPLATE TANDEM save only tandem.dds (vehicle\truck\upgrade\tandem\man_tgx\tandem.dds and vehicle\trailer_eu\tandem\tandem.dds)
+TEMPLATE E6
+Credits: SCS, Danz, Mr.Green, Ostry, Tomson, Vlasta
+HomerS
