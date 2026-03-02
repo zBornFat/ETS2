@@ -16,7 +16,10 @@
 
 ## Changement
 
-### Intérieur
+### Customisation
+<details>
+<summary>Intérieur</summary>
+
 - sideflag
   - normal
   - flip
@@ -31,10 +34,25 @@
 - MSS (Microsoft Surface Pro)
 - notebook
 - passport
+</details>
 
-### Remorque
+<details>
+<summary>Extérieur</summary>
+
+- Lightbox
+  - lightbox1
+  - lightbox2
+  - lightbox3
+</details>
+
+<details>
+<summary>Entreprise</summary>
+
 - eurogoodies (BC)
 - posped (ZBF)
+- nbfc (CC)
+- tradeaux (CM)
+</details>
 
 ## Installation
 
@@ -79,18 +97,37 @@ Liste des versions testé
 
 |ETS2|SiSL'S|zBornFat version|Compatibilité|
 |-|-|-|-|
-|1.58.x|2.5.x|1.1|✅|
-|1.58.x|2.5.x|1.2.6|✅|
-|1.58.x|2.5.x|1.2.7|✅|
-|1.58.x|2.5.x|1.3.3|✅|
-|1.58.x|2.5.x|1.5.1|✅|
-|1.58.x|2.5.x|1.6.1|✅|
-|1.58.x|2.5.x|1.7.1|✅|
+|1.58.x|2.5.x|1.1.1..1.8.1|✅|
 
 ## Dépendances
+
+### Obligatoire
+
+Liste des dépendances obligatoire pour le bon fonctionnement du mod
 
 <div align="center">
 
 [![Static Badge](https://img.shields.io/badge/Dépendance-SiSL's_Mega_Pack-orange)](https://radiotrucker.com/sislsmegapack/download/)
+
+</div>
+
+### Optionnel
+
+Liste des dépendances optionnelle, non obligatoire pour le bon fonctionnement du mod, mais qui peuvent être nécessaire pour certaines fonctionnalités
+
+<div align="center">
+
+[![Static Badge](https://img.shields.io/badge/Optionnel-Really_Real_Company_Name-blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=1579895580&searchtext=really+real)
+[![Static Badge](https://img.shields.io/badge/Optionnel-Virotic_Lightbox-blue)](https://steamcommunity.com/sharedfiles/filedetails/?id=2732345403&searchtext=lightbox)
+
+</div>
+
+
+### Intégré
+Liste des mods déjà installé dans le modpack qui ne sont pas nécessaire à être réinstallé.
+
+<div align="center">
+
+N/A
 
 </div>

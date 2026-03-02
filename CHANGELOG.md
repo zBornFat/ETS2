@@ -2,6 +2,11 @@
 
 Tous les changements notables apportés à ce projet seront documentés dans ce fichier.
 
+## [1.8.1]
+
+### Ajout
+- Ajout lightbox customisé (1, 2, 3)
+
 ## [1.7.1]
 
 ### Ajout
